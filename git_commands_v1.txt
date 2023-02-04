@@ -7,3 +7,5 @@
 4.git commit -m "Commit message"
 
 5.git push
+
+6.git reset HEAD <file-name>
